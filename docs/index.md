@@ -5,12 +5,12 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 
 ---
 ## 1) ¿Quien soy?
-**Soy:** _Alejandro Cordero González_
-//Foto
-**Estudio:** _Universidad Iberoamericana Puebla_
-![Diagrama del sistema](recursos/imgs/ibero.jpeg)
-**Contacto**
-_[alexcorgon@hotmail.com](alexcorgon@hotmail.com)_
+-**Soy:** _Alejandro Cordero González_
+-(Foto)
+-**Estudio:** _Universidad Iberoamericana Puebla_
+-![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+-**Contacto**
+-_[alexcorgon@hotmail.com](alexcorgon@hotmail.com)_
 
 
 ## 2) Gustos
