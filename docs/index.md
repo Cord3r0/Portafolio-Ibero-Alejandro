@@ -7,8 +7,7 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 
 ![Diagrama del sistema](recursos/imgs/ibero.jpeg)
 
-
-
+image <- image_read('https://raw.githubusercontent.com/R-CoderDotCom/samples/main/bird.png')
 
 
 ## Empezar rápido (3 pasos)
