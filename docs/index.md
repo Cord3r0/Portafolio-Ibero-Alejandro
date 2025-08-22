@@ -13,7 +13,7 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 ![Diagrama del sistema](recursos/imgs/ibero.jpeg)
 - **Contacto**
 
-_[alexcorgon@hotmail.com](alexcorgon@hotmail.com)_
+_[]()_
 
 ---
 
