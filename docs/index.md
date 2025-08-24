@@ -7,13 +7,13 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 ## 1) ¿Quien soy?
 - **Soy:** _Alejandro Cordero González_
 
- *¡(Foto)
+(Foto)
+
 - **Estudio:** _Universidad Iberoamericana Puebla_
 
-*![Diagrama del sistema](recursos/imgs/ibero.jpeg)
-- **Contacto**
 
-_[]()_
+![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+
 
 ---
 
@@ -21,13 +21,23 @@ _[]()_
 - **Actividad Favorita:** _Dormir, jugar videojuegos y ver series_
 - **Mi comida favorita:**  Tacos
 
+---
+
+## 3) Logros
+- Ganar Primer y segundo lugar en Ajedrez en Interprepas
+- Estudiar una Ingenieria
+- Saber nadar los 4 estilos de natación
+
+---
+
+## 4) Contacto
+
+ 
 
 
 
 
-
-
-
+---
 
 ## 3) Empezar rápido (3 pasos)
 
