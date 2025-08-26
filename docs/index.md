@@ -16,10 +16,10 @@
 - **Cumpleaños:** _27 de septiembre_
 
 - **Soy:**
-    - Comprometido
     - Resiliente
     - Extrovertido
     - Dedicado
+    - Comprometido
 
 
 
