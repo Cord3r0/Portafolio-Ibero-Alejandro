@@ -7,12 +7,24 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 ## 1) ¿Quien soy?
 - **Soy:** _Alejandro Cordero González_
 
-(Foto)
+<img src="recursos/imgs/Imagen%20de%20WhatsApp%202025-08-25%20a%20las%2017.30.24_fb88a7f0.jpg" alt="Diagrama del sistema" width="180">
+
+
 
 - **Estudio:** _Universidad Iberoamericana Puebla_
 
 
 ![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+
+
+- **Cumpleaños:** _27 de septiembre_
+
+- **Soy:**
+    - Compremetido
+    - Resiliente
+    - Extrovertido
+    - Dedicado
+
 
 
 ---
@@ -32,17 +44,7 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 
 ## 4) Contacto
 
- 
-
-
-
-
----
-
-## 3) Empezar rápido (3 pasos)
-
-1. **Edita el nombre del sitio** en `mkdocs.yml`:
-   ```yaml
-   site_name: Documentación del Curso
-   theme:
-     name: material
+ - **Numero:** 2461035918
+ - **Correos:** 
+    - alejandro.cordero@iberopuebla.mx
+    - alexcorgon@hotmail.com
