@@ -1,9 +1,5 @@
 # Documentación del Proyecto de Alejandro
 
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
-
----
 ## 1) ¿Quien soy?
 - **Soy:** _Alejandro Cordero González_
 
@@ -36,15 +32,14 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 ---
 
 ## 3) Logros
-- Ganar Primer y segundo lugar en Ajedrez en Interprepas
+- Ganar Primer y segundo lugar en Ajedrez en Interprepas, _esto lo consegui gracias a esfuerzo y dedicación al ajedrez_
 - Estudiar una Ingenieria
-- Saber nadar los 4 estilos de natación
+- Participar en competencias de natación
 
 ---
 
 ## 4) Contacto
 
- - **Numero:** 2461035918
  - **Correos:** 
     - alejandro.cordero@iberopuebla.mx
     - alexcorgon@hotmail.com
