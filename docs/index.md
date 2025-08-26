@@ -30,7 +30,7 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 ---
 
 ## 2) Gustos
-- **Actividad Favorita:** _Dormir, jugar videojuegos y ver series_
+-  **Actividad Favorita:** _Dormir, estar con mi pareja y amigos, jugar videojuegos y ver series_
 - **Mi comida favorita:**  Tacos
 
 ---
