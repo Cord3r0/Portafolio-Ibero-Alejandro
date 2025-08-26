@@ -16,7 +16,7 @@
 - **Cumpleaños:** _27 de septiembre_
 
 - **Soy:**
-    - Compremetido
+    - Compreometido
     - Resiliente
     - Extrovertido
     - Dedicado
