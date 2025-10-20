@@ -28,11 +28,8 @@ theme:
   name: material
   highlightjs: true 
   palette:
-    - scheme: slate
-      primary: custom
-      accent: indigo
-  custom_colors:
-    primary: '#02005A'
+    - scheme: default
+      primary: '#02005A'
   features:
     - content.code.copy
     - content.tooltips
