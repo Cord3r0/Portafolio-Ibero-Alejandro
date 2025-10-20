@@ -28,9 +28,14 @@ theme:
   name: material
   highlightjs: true 
   palette:
-      - scheme: default
-        primary: blue
-
+    - scheme: slate
+      primary: custom
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  custom_colors:
+    primary: '#0D47A1'
   features:
     - content.code.copy
     - content.tooltips
