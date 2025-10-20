@@ -31,11 +31,8 @@ theme:
     - scheme: slate
       primary: custom
       accent: indigo
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
   custom_colors:
-    primary: '#0D47A1'
+    primary: '#02005A'
   features:
     - content.code.copy
     - content.tooltips
