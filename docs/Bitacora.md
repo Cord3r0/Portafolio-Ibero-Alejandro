@@ -253,17 +253,17 @@ void loop() {
   delay(1000);
 }
 ```
-Lo que se quiso realizar con este código fue, que cuando se mandara un numero del 1 al 3, se moviera cierto grado que fue definido con anterioridad. Asi se podria mover una garra para controlar mejor la pelota. Mientras tanto otro equipo se encargaba de hacer lo mismo pero con los motores de las llantas
+Lo que se quiso realizar con este código fue que, cuando se mandara un número del 1 al 3, se moviera a cierto grado que fue definido con anterioridad. Así se podría mover una garra para controlar mejor la pelota. Mientras tanto, otro equipo se encargaba de hacer lo mismo, pero con los motores de las llantas.
 
-Como al grupo se le hizo incomodo mover los motores y el servo con la aplicación que se nos había dado con anterioridad. Decidimos buscar una que nos ayudara a mover todo libremente, pero surgieron varios problemas así que se tomo la decision de hacer una aplicacion en [MIT APP INVENTOR](https://appinventor.mit.edu/), esta decision nos quito problemas que habian surgido con anterioridad. 
+Como al grupo se le hizo incómodo mover los motores y el servo con la aplicación que se nos había dado con anterioridad. Decidimos buscar una que nos ayudara a mover todo libremente, pero surgieron varios problemas, así que, se tomó la decisión de hacer una aplicación en [MIT APP INVENTOR](https://appinventor.mit.edu/). Esta decisión nos quitó problemas que habían surgido con anterioridad. 
 
-El nuevo problema que surgio fue que no sabiamos como usar el programa, así que tardo un poco más de lo esperado pero al final el programa para crear la aplicacion y la aplicacion salio así:
+El nuevo problema que surgió fue que no sabíamos como usar el programa, así que tardó un poco más de lo esperado, pero al final comprendimo como funciona el programa para crear la aplicación y el resultado salió así:
 
 ![Diagrama del sistema](recursos/imgs/codigo%20aplicacion.png)
 
 ![Diagrama del sistema](recursos/imgs/interfaz%20aplicacion.jpeg)
 
-Ya con el código final de la aplicación, se tuvo que corregir el código para adaptarlo a la aplicacion y de ahi se tiene que agregar la parte del código de los motores de las llantas. Así que el código se veria algo así:
+Ya con el código final de la aplicación, se tuvo que corregir el código para adaptarlo a la aplicación y de ahí se tiene que agregar la parte del código de los motores de las llantas. Así que el código se vería algo así:
 
 ```c++
 #include "BluetoothSerial.h"
@@ -335,7 +335,7 @@ void moverServo(int angulo) {
 }
 ```
 
-Con el codigo ya terminado, se tuvieron que realizar las conexiones y armar, así que después de que se prepara todo listo, se estuvo armando por dos dias los tres coches que al final quedaron y aun que lamentablemente quedamos en segundo lugar, fue una gran experiencia armarlo y realizar el codigo junto la aplicación.
+Con el código ya terminado, se tuvieron que realizar las conexiones y armar, así que después de que se tuviera todo listo, se estuvo armando por dos días los tres coches que al final quedaron, y aunque lamentablemente quedamos en segundo lugar, fue una gran experiencia armarlo y realizar el código junto a la aplicación.
 
 ![Diagrama del sistema](recursos/imgs/coches%20final.jpeg
 )
